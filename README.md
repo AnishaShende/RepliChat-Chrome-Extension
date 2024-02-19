@@ -37,6 +37,13 @@ Contributions are welcome! Please follow these steps:
 5. Push to the branch (`git push origin feature/your-feature`).
 6. Create a pull request.
 
+## Screenshots
+![Screenshot (189)](https://github.com/AnishaShende/RepliChat-Chrome-Extension/assets/91362696/7f965e05-d10b-44b4-8ef4-1b7e363669c9)
+![Screenshot (190)](https://github.com/AnishaShende/RepliChat-Chrome-Extension/assets/91362696/ba0e8f1d-72e6-48a6-bd81-64df6d0bda08)
+![Screenshot (191)](https://github.com/AnishaShende/RepliChat-Chrome-Extension/assets/91362696/70a5d948-f33e-470d-9f6b-10447eec7dda)
+![Screenshot (193)](https://github.com/AnishaShende/RepliChat-Chrome-Extension/assets/91362696/ea6c8168-7e35-40af-b929-febbb9876a66)
+![Screenshot (194)](https://github.com/AnishaShende/RepliChat-Chrome-Extension/assets/91362696/d8177c81-d0cd-416f-943f-2d28da74d9d8)
+
 ## License
 This project is licensed under the [MIT License](LICENSE).
 
